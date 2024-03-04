@@ -1,4 +1,4 @@
-<h1 align="center">SPETCH-Pesquisa e Inovação</h1>
+<h1 align="center">SPTECH-Pesquisa e Inovação</h1>
 
 ### SOBRE
 
